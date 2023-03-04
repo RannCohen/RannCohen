@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RannCohen
-- 👀 I’m interested in Embedded Linux programing
-- 🌱 I’m currently learning C , C++, python and all around embedded systems (freeRTOS, arduino, stm32...)
-- 💞️ I’m looking to collaborate on anything that i can contribute for!
+- 👀 I’m an android developer
 - 📫 How to reach me - ranchn1377@gmail.com
 
 <!---
